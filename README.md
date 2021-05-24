@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yusuf591-cpu
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Next.js and Tailwind.Css
 - 📫 How to reach me ...
 
 <!---
