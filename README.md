@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yusuf591-cpu
+- 👋 Hi, I’m Yusufboy
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Next.js and Tailwind.Css
 
