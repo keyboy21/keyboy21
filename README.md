@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yusufboy
+- 👋 Hi, I’m Yusufboy Web developer
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Next.js and Tailwind.Css
 
