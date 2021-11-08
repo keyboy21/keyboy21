@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yusufboy Web developer <img src="https://raw.githubusercontent.com/axshivam/axshivam/master/Assets/Earth.gif" width="10">
+- 👋 Hi, I’m Yusufboy Web developer <img src="https://raw.githubusercontent.com/axshivam/axshivam/master/Assets/Earth.gif" width="20">
 - 👀 I’m interested in Programming
 - **Languages and Tools:**🥦
 <p align="left">
