@@ -8,7 +8,7 @@
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" width="70" height="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandlogos.net%2Fbootstrap-logo-vector-93765.html&psig=AOvVaw30Pa5qpm56ZW7-tnnn85QL&ust=1636977312672000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiI_Orll_QCFQAAAAAdAAAAABAD">
+  <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png">
 </p>
 
 
