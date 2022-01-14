@@ -11,6 +11,7 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
   <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" width="50" height="50">
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50">
+  <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="50" height="50">
 </p>
 
 
