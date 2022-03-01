@@ -1,4 +1,4 @@
-- <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="50">
+  <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="50">
 - 👋 Hi, I’m Yusufboy Web developer
 - 🌱 I’m currently learning TypeScript
 - 👀 I’m interested in Web development
