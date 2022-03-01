@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yusufboy Web developer <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="20">
+- 👋 Hi, I’m Yusufboy Web developer <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="40">
 - 🌱 I’m currently learning TypeScript
 - 👀 I’m interested in Web development <img src="https://raw.githubusercontent.com/axshivam/axshivam/master/Assets/Earth.gif" width="20">
 - **Languages and Tools:**🥦
