@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yusufboy Web developer <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="40">
+- 👋 Hi, I’m Yusufboy Web developer <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="30">
 - 🌱 I’m currently learning TypeScript
-- 👀 I’m interested in Web development <img src="https://raw.githubusercontent.com/axshivam/axshivam/master/Assets/Earth.gif" width="20">
+- 👀 I’m interested in Web development
 - **Languages and Tools:**🥦
 <p align="left">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
