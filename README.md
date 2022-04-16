@@ -16,7 +16,7 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png" width="150" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="150" height="100">
-  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/rtlx0sivc7wcr75y5bkj" width="150" height="100">
+  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/rtlx0sivc7wcr75y5bkj" width="100" height="100">
 
 </p>
 
