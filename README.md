@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Yusufboy Web developer <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="50">
 - 🌱 I’m currently learning TypeScript
 - 👀 I’m interested in Web development
-- **Languages and Tools:**🥦
+- **Tools**🥦
 <p align="left">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
