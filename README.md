@@ -9,7 +9,7 @@
   <img src="https://expressjs.com/images/express-facebook-share.png" width="100" height="50">
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="50" height="50">
-  <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="50" height="50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Y0uHbCNCw05pPd9Kw9AA7I3kA4I6ZW1E5YeYaeB4Acz0W02-YJzEQiEt81w-3sFT2aE&usqp=CAU" width="50" height="50">
   <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" width="50" height="50">
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50">
   <img src="https://camo.githubusercontent.com/f5986f0f631b304f434616e3e416b5a8a83bc3a1e888747944f2dcb308d613e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b483144426b504e795a504f6b304278724d2f67697068792e676966" width="70">
