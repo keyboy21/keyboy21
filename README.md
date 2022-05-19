@@ -15,9 +15,7 @@
   <img src="https://camo.githubusercontent.com/f5986f0f631b304f434616e3e416b5a8a83bc3a1e888747944f2dcb308d613e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b483144426b504e795a504f6b304278724d2f67697068792e676966" width="70">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png" width="150" height="50">
-  <img src="https://spin.atomicobject.com/wp-content/uploads/prisma.jpg.jpg" width="150" height="100">
-  <img src="[https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png](https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png)" width="70" height="70">
-  
+  <img src="https://spin.atomicobject.com/wp-content/uploads/prisma.jpg.jpg" width="100" height="100">
 
 </p>
 
