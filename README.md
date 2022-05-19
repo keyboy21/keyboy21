@@ -1,7 +1,8 @@
 
 - 👋 Hi, I’m Yusufboy Web developer <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="50">
-- 🌱 I’m currently learning TypeScript + Nest.js
 - 👀 I’m interested in Web development
+- 🌱 I’m currently learning TypeScript + Nest.js
+
 - **Tools**🥦
 <p align="left">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
