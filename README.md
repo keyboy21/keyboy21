@@ -6,7 +6,7 @@
 - **Tools**🥦
 <p align="left">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp" width="50" height="70">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp" width="70">
   <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" width="50">
   <img src="https://docs.nestjs.com/assets/logo-small.svg" width="50">
   <img src="https://expressjs.com/images/express-facebook-share.png" width="100" height="50">
