@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Yusufboy Web developer <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="50">
+- 👋 Hi, I’m Yusufboy Web developer <img src="https://camo.githubusercontent.com/7a8a6ba951c0c12abcd702d56f09f252d1208f68512f26c572ff4b5d5ec309da/68747470733a2f2f636c69706c792e636f2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f3339323130323835305f45415254485f454d4f4a495f34303070782e676966" width="50">
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning TypeScript + Nest.js
 
