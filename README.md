@@ -7,6 +7,7 @@
 <p align="left">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+  <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" width="50">
   <img src="https://expressjs.com/images/express-facebook-share.png" width="100" height="50">
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="50" height="50">
