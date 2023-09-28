@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Yusufboy Web developer
-- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Vue 3
 
 - **Tools I'm use**🥦
