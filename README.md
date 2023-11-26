@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Yusufboy Web developer
-- 🌱 I’m currently learning Vue 3
-
 - **Tools I'm use**🥦
 <p align="left">
 
