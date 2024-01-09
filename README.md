@@ -11,7 +11,6 @@
   <img src="https://docs.nestjs.com/assets/logo-small.svg" width="50">
   <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="50" height="50">
    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50">
-  <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="70" height="50">
  
 
 
